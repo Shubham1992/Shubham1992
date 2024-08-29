@@ -4,8 +4,8 @@ I'm Shubham Goel, a Senior Android developer passionate about creating engaging 
 
 ## About Me
 
-- 📱 Android developer with experience in building mobile applications using Android Studio, Kotlin, and Java.
-- 🧠 Proficient in MVVM, MVI and Clean architecture for building scalable and maintainable Android apps.
+- 📱 Software developer with experience in building applications using Android Studio, Kotlin, Java, & MERN.
+- 🧠 Proficient in MVVM, MVI and Clean architecture for building scalable and maintainable apps and Distributed Systems.
 - 🧠 Good experience in building multi-module and multi-repo applications.
 - 💡 Constantly learning and exploring new technologies to improve my skills and stay updated with the latest trends in mobile development.
 
