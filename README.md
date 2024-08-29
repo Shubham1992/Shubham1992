@@ -18,15 +18,18 @@ Here is my work experience and some interesting projects I have worked upon:
 - Description: Most popular OTT app in India (https://bit.ly/4eBgPf3)
 - Technologies: Kotlin, MVI + Clean architecture with viewmodels, Coroutines, handling multi-module and multi-repo application.
 
-### Flexnest (Technology Lead)
-
-- Description: A connected fitness application that uses BLE technoligy to talk to various gym equipments
-- Technologies: Kotlin+Java, MVVM architecture, Swift, NodeJS, DocumentDB, AWS EC2, Lambda, Cloudfront, S3, SNS
 
 ### Dm2buy (Cofounder)
 
 - Description: Cofounded a startup that helps small-business get online
 - Technologies: Kotlin+Java, Swift, NodeJS, DocumentDB, AWS EC2, Lambda, Cloudfront, S3, SNS, Vercel, NextJS, NewRelic
+
+
+### Flexnest (Technology Lead)
+
+- Description: A connected fitness application that uses BLE technoligy to talk to various gym equipments
+- Technologies: Kotlin+Java, MVVM architecture, Swift, NodeJS, DocumentDB, AWS EC2, Lambda, Cloudfront, S3, SNS
+
 
 ## Skills
 
