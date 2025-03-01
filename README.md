@@ -13,16 +13,18 @@ I'm Shubham Goel, a Senior Android developer passionate about creating engaging 
 
 Here is my work experience and some interesting projects I have worked upon:
 
+### Dm2buy (Cofounder)
+
+- Cofounded a startup that helps small-business get online
+- Technologies: Kotlin+Java, Swift, NodeJS, DocumentDB, AWS EC2, Lambda, Cloudfront, S3, SNS, Vercel, NextJS, NewRelic
+
+  
+
 ### JioCinema Android and TV App (Senior Software Dev)
 
 - Most popular OTT app in India (https://bit.ly/4eBgPf3)
 - Technologies: Kotlin, MVI + Clean architecture with viewmodels, Coroutines, handling multi-module and multi-repo application.
 
-
-### Dm2buy (Cofounder)
-
-- Cofounded a startup that helps small-business get online
-- Technologies: Kotlin+Java, Swift, NodeJS, DocumentDB, AWS EC2, Lambda, Cloudfront, S3, SNS, Vercel, NextJS, NewRelic
 
 
 ### Flexnest (Technology Lead)
