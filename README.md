@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Shubham Goel, a Senior Android developer passionate about creating engaging and user-friendly mobile applications. Welcome to my GitHub profile!
+I'm Shubham Goel, a Senior Android developer passionate about creating engaging and user-friendly mobile applications.
 
 ## About Me
 
